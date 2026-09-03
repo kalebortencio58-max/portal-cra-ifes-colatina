@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31808689/README.md)
 # Portal da CRA — IFES Campus Colatina
 
 Protótipo funcional estático baseado na especificação enviada para a nova estrutura do Portal da CRA.
